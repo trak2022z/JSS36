@@ -7,7 +7,7 @@ let kitten = {
 name: "Orange", // string
 breedName: "Domestic Short hair", // string
 meow: function() {
-console.log(this.name + " says woof!"); // function
+console.log(this.name + " says meow!"); // function
 },
 age: 3, // number
 toys: ["mouse", "fuzzy hat", "shoe string"] // array
